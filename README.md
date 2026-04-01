@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=300&section=header&text=Hi! Paul here&fontColor=00F7FF&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Jack%20of%20all%20trades,%20master%20of%20TypeScript&descAlignY=51&descAlign=62&descColor=00F7FF&color=auto"/>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=300&section=header&fontColor=00F7FF&text=Hi! Paul here"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontColor=00F7FF&text=Hi! Paul here"/>
 </p>
 
 ---
