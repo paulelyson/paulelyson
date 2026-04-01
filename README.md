@@ -1,15 +1,12 @@
 <!-- HEADER -->
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=300&section=header&text=Hi! Paul here&fontColor=00F7FF&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Jack%20of%20all%20trades,%20master%20of%20TypeScript&descAlignY=51&descAlign=62&descColor=00F7FF&color=auto"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!Paulhere"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=300&section=header&text=Hi!%20Paul%20here&fontColor=00F7FF&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Jack%20of%20all%20trades,%20master%20of%20TypeScript&descAlignY=51&descAlign=62&descColor=00F7FF&color=auto"/>
 </p>
 ---
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I'm good at&repeat=false"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I%27m%20good%20at&repeat=false"/>
 </p>
 
 <p align="center">
