@@ -2,6 +2,7 @@
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=300&section=header&text=Hi!%20Paul%20here&fontColor=00F7FF&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Jack%20of%20all%20trades,%20master%20of%20TypeScript&descAlignY=51&descAlign=62&descColor=00F7FF&color=auto"/>
 </p>
+
 ---
 
 <!-- TYPING ANIMATION -->
@@ -16,8 +17,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=You know,&repeat=false" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I'm something of a AWS expert myself&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=You%20know,&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I%27m%20something%20of%20a%20AWS%20expert%20myself&repeat=false" />
 </p>
 
 <div align="center">
@@ -63,10 +64,10 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Life is continuous learning&repeat=false&height=40" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Life%20is%20continuous%20learning&repeat=false&height=40" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=So I decided to learn&repeat=false&height=40" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=So%20I%20decided%20to%20learn&repeat=false&height=40" />
 </p>
 
 <p align="center">
@@ -77,7 +78,7 @@
 <!-- GitHub Stats-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Github stats anyone?&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Github%20stats%20anyone?&repeat=false" />
 </p>
 
 <p align="center">
@@ -87,7 +88,7 @@
 ---
 <!-- Featured Projects -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Some projects I'm proud of&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Some%20projects%20I%27m%20proud%20of&repeat=false" />
 </p>
 
 <!-- Frontend -->
@@ -111,10 +112,10 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&lines=Check more of these&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&lines=Check%20more%20of%20these&repeat=false" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&lines=on my repo&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&lines=on%20my%20repo&repeat=false" />
 </p>
 <!-- <p align="center">
   <a href="https://github.com/paul_elyson/paulelyson">
@@ -125,7 +126,7 @@
 ---
 <!-- Fun Fact -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fun Fact Fact you might care about &repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fun%20Fact%20Fact%20you%20might%20care%20about%20&repeat=false" />
 </p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; flex-direction: column; justify-content: center; gap: 5px; align-items: flex-start;">
@@ -160,10 +161,10 @@
 
 <!-- Let's Connect Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Did I got your attention?&repeat=false"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Did%20I%20got%20your%20attention?&repeat=false"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Please don't hesitate to reach out&repeat=false"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Please%20don%27t%20hesitate%20to%20reach%20out&repeat=false"/>
 </p>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
